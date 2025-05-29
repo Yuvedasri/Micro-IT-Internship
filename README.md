@@ -1,2 +1,2 @@
-#TO-DO-LIST
+TO-DO-LIST
 # Micro-IT-Internship
